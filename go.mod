@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/davecgh/go-spew v1.1.1
-	github.com/docker/go-units v0.4.0
+	github.com/docker/go-units v0.5.0
 	github.com/rancher/wrangler v0.8.8
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
